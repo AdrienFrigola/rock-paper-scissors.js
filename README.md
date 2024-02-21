@@ -20,9 +20,9 @@ This project is a simple implementation of the Rock, Paper, Scissors game using 
 
 ## Files
 
-- `rpc.html`: HTML file containing the structure of the game.
-- `rpc.css`: CSS file containing the styles for the game interface.
-- `rpc.js`: JavaScript file containing the game logic.
+- [rpc.html](rpc.html): HTML file containing the structure of the game.
+- [rpc.css](rpc.css): CSS file containing the styles for the game interface.
+- [rpc.js](rpc.js): JavaScript file containing the game logic.
 
 ## License
 

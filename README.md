@@ -6,7 +6,7 @@ This project is a simple implementation of the Rock, Paper, Scissors game using 
 
 ## How to Play
 
-1. Open the `rpc.html` file in your web browser.
+1. Open the [rpc.html](rpc.html) file in your web browser.
 2. Click on one of the buttons representing Rock, Paper, or Scissors to make your choice.
 3. The computer will randomly select its choice.
 4. The game will display the choices made by both the player and the computer, as well as the result.
